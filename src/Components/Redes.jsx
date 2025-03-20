@@ -18,7 +18,7 @@ const Redes = () => {
            <img src={EMAIL} alt="" /> 
            <h2>EMAIL/TELEFONE</h2>
            <p>ericribeiro756@gmail</p>
-           <p>Tel:(11)93046-4351</p>
+           <p>Tel:(11) 99800-6317</p>
 
         </div>
         <div className="box">

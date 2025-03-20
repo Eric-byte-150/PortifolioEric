@@ -12,7 +12,7 @@ const CardTextInRight = ({header,text,src,href,hrefCode}) => {
      <p> {text}</p>
      <div className="buttons">
      <a href={href}><button>VER PROJETO</button></a>
-        <a href={hrefCode}><button>VER CÓDIGO</button></a>
+        
       </div>
       </div>
       <div className="imgStandard">

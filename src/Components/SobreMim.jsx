@@ -7,10 +7,11 @@ const SobreMim = () => {
 <div className="container">
     <h1 className='sobreh1'> SOBRE MIM</h1>
     <p className='sobrep'>
-    Em Primeiro lugar , o porquê de eu levantar todos os dias é que acredito que minha paixão pela 
-    tecnologia e minha vontade de fazer a diferença no mundo são aspectos fundamentais que me impulsionam a
-     sempre buscar a excelência em meu trabalho.Como desenvolvedor de software, eu possuo experiência em diversas
-      linguagens de programação como Java, HTML, CSS, JavaScript, PHP, MySql entre outros.
+    O que me motiva todos os dias é minha paixão por tecnologia e a vontade de transformar dados em 
+    conhecimento estratégico. Busco uma oportunidade de estágio em Análise de Dados para aplicar minhas 
+    habilidades em SQL, Python, Power BI e Excel, explorando padrões e gerando insights valiosos. 
+    Acredito que a análise de dados tem um papel fundamental na tomada de decisões e estou 
+    comprometido em desenvolver soluções eficientes que impulsionem resultados e agreguem valor ao negócio.
     </p>
   <a href="#redes"><button className='sobrebutton'>Entrar em contato</button></a>
 </div>
