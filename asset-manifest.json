@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PortifolioEric/static/css/main.9df96a1b.css",
+    "main.js": "/PortifolioEric/static/js/main.333f1b9b.js",
+    "static/js/787.14b632af.chunk.js": "/PortifolioEric/static/js/787.14b632af.chunk.js",
+    "static/media/Currículo - Estágioo.pdf": "/PortifolioEric/static/media/Currículo - Estágioo.3cd86b59d214b29e0a10.pdf",
+    "static/media/Excel Projeto.jpg": "/PortifolioEric/static/media/Excel Projeto.260e00340fd78f5b3484.jpg",
+    "static/media/PROJECTBI.PNG": "/PortifolioEric/static/media/PROJECTBI.2264e5ba2645aef2b3d4.PNG",
+    "static/media/eu.jpg": "/PortifolioEric/static/media/eu.017c5f36c3461ff9974a.jpg",
+    "static/media/EXECEL ICON.png": "/PortifolioEric/static/media/EXECEL ICON.e7bb58b08b83f11c909e.png",
+    "static/media/Python.png": "/PortifolioEric/static/media/Python.057b882530e5b1bc0b83.png",
+    "static/media/arquivo-css.png": "/PortifolioEric/static/media/arquivo-css.0448afd774c14d467cdc.png",
+    "static/media/arquivo-html.png": "/PortifolioEric/static/media/arquivo-html.68d4e6f4c86af6b75def.png",
+    "static/media/Power BI.webp": "/PortifolioEric/static/media/Power BI.b5c27a247b84d134a93a.webp",
+    "index.html": "/PortifolioEric/index.html",
+    "main.9df96a1b.css.map": "/PortifolioEric/static/css/main.9df96a1b.css.map",
+    "main.333f1b9b.js.map": "/PortifolioEric/static/js/main.333f1b9b.js.map",
+    "787.14b632af.chunk.js.map": "/PortifolioEric/static/js/787.14b632af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df96a1b.css",
+    "static/js/main.333f1b9b.js"
+  ]
+}
