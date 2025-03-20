@@ -1,7 +1,6 @@
 {
   
 "homepage": "https://Eric-byte-150.github.io/PortifolioEric",
-
   
 "name": "portifolio",
   
@@ -62,7 +61,10 @@
   
   
 "predeploy": "npm run build",
- "deploy": "gh-pages -d build"
+  
+  
+"deploy": "gh-pages -d build"
+  
 },
   
 "eslintConfig": {

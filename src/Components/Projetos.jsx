@@ -1,11 +1,7 @@
 import FILME from '../imagens/PROJECTBI.PNG';
-import PODEDEX from '../imagens/POKEDEX.png';
-import CEP from '../imagens/CEPP.png';
-import QUIZ from '../imagens/QUIZ.png';
-import NUTRI from '../imagens/NUTRI.png';
-import TO_DO_LIST from '../imagens/TO-DO-LIST.png';
+
 import Excel from '../imagens/Excel Projeto.jpg';
-import TOURS from '../imagens/TOURS.png';
+
 
 
 import React, { useState } from 'react';
@@ -39,9 +35,6 @@ const Projetos = () => {
 
   const visibleProjects = showAllProjects ? projects : projects.slice(0, 4);
 
-  const handleClick = () => {
-    setShowAllProjects(!showAllProjects);
-  };
 
   return (
     <section className="Projetos" id='projetos'>
